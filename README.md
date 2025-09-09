@@ -22,7 +22,7 @@
 
 ## 🧰 Tools & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,oracle,mysql,docker,kubernetes,aws,azure,git,linux,react,nodejs,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,Oracle,mysql,docker,kubernetes,aws,azure,git,linux,react,nodejs,postman," />
 </p>
 
 ---
