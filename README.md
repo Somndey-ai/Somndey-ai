@@ -22,7 +22,9 @@
 
 ## 🧰 Tools & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,Oracle,mysql,docker,kubernetes,aws,azure,git,linux,react,nodejs,postman," />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,mysql,docker,kubernetes,aws,azure,git,linux,react,nodejs,postman," />
+  <img src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle" width="48" height="48"/>
+
 </p>
 
 ---
