@@ -12,14 +12,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Somndey-ai&show_icons=true&theme=radical" height="160em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somndey-ai&layout=compact&theme=radical" height="160em" />
-</p>
-
----
-
 ## 🧰 Tools & Technologies  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,mysql,docker,kubernetes,aws,azure,git,linux,react,nodejs,postman," />
